@@ -1,0 +1,37 @@
+.logo{
+    text-align: center;
+}
+.search{
+    text-align: center;
+    height: auto;
+    background-color:lightsteelblue;
+}
+#input{
+    width: 250px;
+}
+#inputx{
+    width: 100px;
+}
+.box{
+    background-color: dodgerblue;
+    text-align: center;
+    margin: 5px;
+    float:left;
+}
+.ba{
+    padding: 30px;
+    width: 400px;
+    height: 50px;
+}
+.bb{
+    padding: 10px;
+    width: 200px;
+    height: 90px;
+}
+.bc{
+    width: 500px;
+}
+.finish{
+    text-align: center;
+    padding: 10px;
+}
